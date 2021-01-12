@@ -3324,6 +3324,18 @@ K transformer coil magnet
 F ~
 $ENDCMP
 #
+$CMP Transformer_1SS_2SS
+D Transformer, single primary, split secondary
+K transformer coil magnet
+F ~
+$ENDCMP
+#
+$CMP Transformer_1SS_2SS_GND_8pin
+D Transformer, single primary, split secondary
+K transformer coil magnet
+F ~
+$ENDCMP
+#
 $CMP Transformer_Audio
 D Audio transformer
 K transformer coil magnet sound
